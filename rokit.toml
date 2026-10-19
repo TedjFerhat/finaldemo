@@ -1,0 +1,4 @@
+# Rokit toolchain file — `rokit install` installs exactly this Rojo version.
+# (Optional: the VS Code Rojo extension can install Rojo for you instead.)
+[tools]
+rojo = "rojo-rbx/rojo@7.7.1"

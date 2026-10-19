@@ -1,0 +1,12 @@
+{
+  "luau-lsp.sourcemap.enabled": true,
+  "luau-lsp.sourcemap.autogenerate": true,
+  "luau-lsp.sourcemap.rojoProjectFile": "default.project.json",
+  "luau-lsp.platform.type": "roblox",
+  "luau-lsp.types.roblox": true,
+  "files.associations": {
+    "*.luau": "luau"
+  },
+  "editor.tabSize": 4,
+  "editor.insertSpaces": false
+}
